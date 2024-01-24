@@ -1,6 +1,6 @@
 {
   "name": "@ionited/tooltip-vue",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A simple and lightweight tooltip library for Vue",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ionited/tooltip-vue#readme",
   "dependencies": {
-    "@ionited/tooltip": "^0.1.5"
+    "@ionited/tooltip": "^0.1.6"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
